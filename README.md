@@ -6,7 +6,7 @@ from `/Open-EDA-Flow/` change script permissions
 
 build the image
 
-`scripts/build_sif.sh --def eda-flow.def --out eda-flow.sif`
+`scripts/build_sif.sh --def apptainer/apptainer.def --out eda-flow.sif`
 
 open a shell in the apptainer environment
 
